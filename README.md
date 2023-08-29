@@ -1,5 +1,5 @@
-# G-shop
-Responsive Ecommerce website using Django and React with Paypal integration
+# E-shop
+A fullstack complete ecommerce website using Django backend and React frontend along with authorization and payment integration
 
 # Using
 * Python
@@ -20,7 +20,7 @@ Responsive Ecommerce website using Django and React with Paypal integration
  * Carousel for last products
 
 # Download and Setup 
- * git clone https://github.com/yankkv75/ecommerce-django-react/
+ * git clone https://github.com/ItsKowshik/E-shop
  * cd ecommerce-django-react
  * Create virtual environment: virtualenv myenv
  * myenv/scripts/activate
