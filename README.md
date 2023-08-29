@@ -33,8 +33,5 @@ A fullstack complete ecommerce website using Django backend and React frontend a
  * npm install
  * npm start
 
-# Screenshots
-## Home page
-![home screen](https://user-images.githubusercontent.com/107151785/173429225-7c602e48-ed6e-40fb-8b4a-8661abefb331.png)
 
 
